@@ -1,26 +1,16 @@
-# Perfectcut – Beauty Salon Website template
+# Rahude Surgana(Nashik) Maharashtra
 #### Preview
 
- - [Demo](https://themewagon.github.io/perfectcut/)
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/perfectcut/)
+ - [Demo](https://bhushan2000.github.io/rahude.surgana/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/perfectcut.git
-```
-
-## Author 
-```
-Design and code is completely written by Free html Templates and development team. 
+git clone https://bhushan2000.github.io/rahude.surgana/
 ```
 
 ## License
-
- - Design and Code is Copyright &copy; [@Free html Templates](https://html.design/)
  - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+ - Distributed by [Novami Infotechs Pvt Ltd](https://www.novamiinfotechs.com/)
 
